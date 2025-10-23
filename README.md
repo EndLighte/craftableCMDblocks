@@ -1,2 +1,3 @@
-# craftableCMDblocks
-makes command blocks in minecraft craftable
+## Craftable Command Blocks
+**versions**
+ - 1.21.9
